@@ -85,6 +85,8 @@ export function Navigation() {
         <ul className="flex w-full h-full gap-2 whitespace-nowrap items-center max-md:hidden">
             <NavButtons />
             
+            <a href="https://pancakeswap.finance/swap?outputCurrency=ETH&chainId=56&inputCurrency=BNB&chain=bsc&chainOut=base" target="_blank" className="flex items-center py-2 px-4 gap-2  max-sm:hidden select-none duration-200 border-b border-transparent hover:opacity-60">
+            Bridge</a>
             <a href="https://x.com" target="_blank" className="flex items-center py-2 px-4 gap-2  max-sm:hidden select-none duration-200 border-b border-transparent hover:opacity-60">
             Twitter</a>
             <a href="https://t.me" target="_blank" className="flex items-center py-2 px-4 gap-2 max-sm:hidden select-none duration-200 border-b border-transparent hover:opacity-60">
