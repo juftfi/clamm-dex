@@ -87,9 +87,9 @@ export function Navigation() {
             
             <a href="https://pancakeswap.finance/swap?outputCurrency=ETH&chainId=56&inputCurrency=BNB&chain=bsc&chainOut=base" target="_blank" className="flex items-center py-2 px-4 gap-2  max-sm:hidden select-none duration-200 border-b border-transparent hover:opacity-60">
             Bridge</a>
-            <a href="https://x.com" target="_blank" className="flex items-center py-2 px-4 gap-2  max-sm:hidden select-none duration-200 border-b border-transparent hover:opacity-60">
+            <a href="https://x.com/clammdex" target="_blank" className="flex items-center py-2 px-4 gap-2  max-sm:hidden select-none duration-200 border-b border-transparent hover:opacity-60">
             Twitter</a>
-            <a href="https://t.me" target="_blank" className="flex items-center py-2 px-4 gap-2 max-sm:hidden select-none duration-200 border-b border-transparent hover:opacity-60">
+            <a href="https://t.me/clamm_dex" target="_blank" className="flex items-center py-2 px-4 gap-2 max-sm:hidden select-none duration-200 border-b border-transparent hover:opacity-60">
             Telegram</a>
         </ul>
         
